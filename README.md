@@ -5,4 +5,5 @@ At the University of Illinois Chicago, I have explored this passion further, cre
 As I get closer to finishing my Bachelor's degree in Computer Science, I have learned about database systems and SQL, as well as testing frameworks such as JUnit, and I am looking forward to utilizing these skills at a Chicago-based company in the near future.
 
 Specialties: Languages: C, C++, Java, Python, and SQL
+
 Academics: Data Structures, Software Design, Systems Programming
